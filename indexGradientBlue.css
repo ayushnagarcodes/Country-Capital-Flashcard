@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Oswald:wght@500&display=swap");
 
 body {
-  background-image: url('/Country Capital Flashcard/gradients/blue_gradient.jpg');
+  background-image: url('gradients/blue_gradient.jpg');
   background-repeat: no-repeat;
   background-size: 1600px 950px;
 }
