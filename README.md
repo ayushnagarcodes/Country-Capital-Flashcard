@@ -1,6 +1,6 @@
 # Country Capital Flashcard
-You can see the live preview of this project here.
-- I created a flashcard project/game which on hover, flips the card and gives the capital of the country. Try this out by clicking here.
+You can see the live preview of this project [here](https://ayushnagarcodes.github.io/Country-Capital-Flashcard/).
+- I created a flashcard project/game which on hover, flips the card and gives the capital of the country. Try this out by clicking [here](https://ayushnagarcodes.github.io/Country-Capital-Flashcard/).
 - I created 3 versions of it, each with different UI. In the last two, I gave 'glassmorphism' look to it.
 - You can jump between the three styles using the navigation bar on left side.
 <br />
